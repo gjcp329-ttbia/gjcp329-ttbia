@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gemma, a professional data analyst.
+## Hi there 👋, I'm Gemma, a QA, Data and Technical Support professional..
 
 <!--
 **gjcp329-ttbia/gjcp329-ttbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
