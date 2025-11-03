@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gemma, a Quality Assurance, Business/Data Analysis, Tech Support professional..
+## Hi there 👋, I'm Gemma, a Quality Assurance and Tech Support professional currently studying Business Intelligence Analytics to learn more about data analysis, data management, forecasting, reporting, etc..
 
 <!--
 **gjcp329-ttbia/gjcp329-ttbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
