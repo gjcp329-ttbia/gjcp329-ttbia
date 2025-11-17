@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gemma, a Quality Assurance and Tech Support professional currently working on my Business Intelligence Analytics Certification (SQL Optimization, Tableau/PowerBI, Data Modeling)
+## Hi there 👋, I'm Gemma, a Quality Assurance and Tech Support professional currently working on my Business Intelligence Analytics Certification (SQL Optimization, Tableau/PowerBI, Data Modeling and Visualizations)
 
 <!--
 **gjcp329-ttbia/gjcp329-ttbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
